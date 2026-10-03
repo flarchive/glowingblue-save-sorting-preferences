@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of glowingblue/save-sorting-preferences.** Not for installation: use [Packagist](https://packagist.org/packages/glowingblue/save-sorting-preferences) or the [upstream repository](https://github.com/glowingblue/flarum-ext-save-sorting-preferences).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/glowingblue-save-sorting-preferences/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/glowingblue-save-sorting-preferences/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-01-27 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-save-sorting-preferences/tree/archive/v0.1.0) |
+| `1.0.0` | 2026-01-27 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-save-sorting-preferences/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/glowingblue-save-sorting-preferences.json](https://github.com/flarchive/archive-index/blob/main/packages/glowingblue-save-sorting-preferences.json)
 
